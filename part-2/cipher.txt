@@ -1,0 +1,8 @@
+Cipher logic:
+
+All vowels are moved forward 2 letters in the alphabet
+All consonants are moved backwards 8 letters in the alphabet
+All symbols are their corresponding number on the keyboard. 
+If a symbol does not have a corresponding number, then it is moved foward one key on the keyboard
+
+Ciphered code- K dqng ujhlqyjchzq1<~
